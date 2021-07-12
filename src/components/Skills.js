@@ -62,7 +62,7 @@ function Skills() {
           <button>LinkedIn</button>
         </a>
         <a
-          href="https://drive.google.com/file/d/1aK3E32O6mK1ENofCxlJpDy5VZBkoGcGn/view?usp=sharing"
+          href="https://drive.google.com/file/d/1lFA8R7wIeYONaCVeGd0o5WTsb0vaRawq/view?usp=sharing"
           rel="noreferrer"
           target="_blank"
         >
