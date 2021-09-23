@@ -2,8 +2,8 @@ import { SwiperSlide } from "swiper/react";
 
 function ProjectCard(props) {
   //--- Projects --- {id: "", title: "", photo_src:"", description: "", link: "", repo: ""}
-  //--- Tags --- {tag_id: "", tag_name: ""}
-  //--- Linked -- {project_id: "", tag_id: ""}
+  //Not using yet--- Tags --- {tag_id: "", tag_name: ""}
+  //Not using yet--- Linked -- {project_id: "", tag_id: ""}
   if (!props.link) {
     return (
       <SwiperSlide>
